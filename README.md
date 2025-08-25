@@ -1,4 +1,4 @@
-# Cars-Sales-Analysis-Dashboard-
+# Cars-Sales-Analysis-Dashboard- Excel
 This a cara sales analysis dashboard project using Excel.
 
 # Insights findings
