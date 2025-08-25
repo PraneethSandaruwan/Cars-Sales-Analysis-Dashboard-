@@ -21,7 +21,7 @@ Also can find maximum, minimum and average of each above findings
 3. Creating dashboard
 
 # Data Collection
-Data were collectd from kaggle. Data link can be given upon a request.
+Data were collected from kaggle. Data link can be given upon a request.
 
 # Project File
 The project file can be given upon a request.
