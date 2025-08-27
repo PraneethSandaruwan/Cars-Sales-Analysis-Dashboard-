@@ -13,18 +13,17 @@ This a cara sales analysis dashboard project using Excel.
 9. Sales by dorrs type
 10. Sales per seating capacity
 
-Also can find maximum, minimum and average of each above findings
 
 # Skills 
 1. Data cleaning
 2. Pivot tables
 3. Creating dashboard
 
-# Data Collection
-Data were collected from kaggle. Data link can be given upon a request.
+# Data Credits
+This project uses the (https://docs.google.com/spreadsheets/d/1Zr7ZC9gZDS5pJQEro59JXV4vYyPal9WH15nczbL_GtI/edit?gid=0#gid=0).
+We gratefully acknowledge their work.
 
-# Project File
-The project file can be given upon a request.
+
 
 
 
